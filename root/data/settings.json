@@ -1,12 +1,12 @@
 {
     "website_builder": {
-        "branch": "dependency-resolution"
+        "branch": "main"
     },
-    "old_id_system": false,
-    "enable_exams_page": true,
+    "old_id_system": true,
+    "codeforces": false,
+    "enable_exams_page": false,
     "enable_members_index": true,
     "enable_image_library": false,
-    "enable_stats_page": false,
-    "enable_compare_page": false,
-    "codeforces": false
+    "enable_stats_page": true,
+    "enable_compare_page": true
 }

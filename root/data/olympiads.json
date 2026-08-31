@@ -1,12 +1,32 @@
 [
     {
-        "id": "ieo", "website": "https://example.com",
-        "arname": "أولمبياد المثال الدولي",
-        "enname": "International Example Olympiad",
-        "ardescription": "نبذة عن المسابقة.",
-        "endescription": "A summary on the competition.",
+        "id": "ibo",
+        "website": "https://www.ibo-info.org",
+        "arname": "أولمبياد الأحياء الدولي",
+        "enname": "International Biology Olympiad",
+        "ardescription": "اختبارات نظرية وتجارب عملية في مختبرات الأحياء",
+        "endescription": "Theoretical exams and practical laboratory biology challenges.",
         "participants_count": 4,
-        "problems_count": 6,
-        "official": false
+        "official": true
+    },
+    {
+        "id": "oibo",
+        "website": "https://oibo.siriusolymp.ru",
+        "arname": "أولمبياد الأحياء الدولي المفتوح",
+        "enname": "Open International Biology Olympiad",
+        "ardescription": "جولات نظرية وعملية ومشاريع بحثية جماعية",
+        "endescription": "Theory, laboratory practice, and team research projects.",
+        "participants_count": 6,
+        "official": true
+    },
+    {
+        "id": "aibo",
+        "website": "https://www.aibo.uz",
+        "arname": "أولمبياد ابن سينا الدولي للأحياء",
+        "enname": "Avicenna International Biology Olympiad",
+        "ardescription": "أسئلة أحياء نظرية وتجارب مختبرية عملية",
+        "endescription": "Theoretical biology questions and practical laboratory experiments.",
+        "participants_count": 4,
+        "official": true
     }
 ]
