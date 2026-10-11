@@ -6,7 +6,8 @@
         "enname": "Maryam Ghalib Alhashim",
         "level": -3,
         "graduation": 2022,
-        "female": true
+        "female": true,
+        "soid": "34597bac-7db5-44ff-9e4d-7521c0223f02"
     },
     {
         "iid": 101,
@@ -15,7 +16,8 @@
         "enname": "Zainab Al-Alawi",
         "level": -3,
         "graduation": 2022,
-        "female": true
+        "female": true,
+        "soid": "72a9a251-9a97-4f88-8d01-272c07476a53"
     },
     {
         "iid": 102,
@@ -23,7 +25,8 @@
         "arname": "باسل بن حبيب الله",
         "enname": "Basil Habiballah",
         "level": -3,
-        "graduation": 2021
+        "graduation": 2021,
+        "soid": "14bd65da-c280-40e8-b543-b0b99e7ca019"
     },
     {
         "iid": 103,
@@ -31,7 +34,8 @@
         "arname": "عمر أيمن بنجر",
         "enname": "Omar Ayman Banjar",
         "level": -3,
-        "graduation": 2020
+        "graduation": 2020,
+        "soid": "e7d72fac-ab58-4113-89f2-87a347574e8c"
     },
     {
         "iid": 104,
@@ -39,7 +43,8 @@
         "arname": "يزن حاتم المغربي",
         "enname": "Yazan Hatem Almaghrabi",
         "level": -3,
-        "graduation": 2023
+        "graduation": 2023,
+        "soid": "f2357fc3-7e92-48b1-a633-f3569384fb02"
     },
     {
         "iid": 105,
@@ -47,7 +52,8 @@
         "arname": "نواف رائد المطير",
         "enname": "Nawaf Raed Almutair",
         "level": -3,
-        "graduation": 2023
+        "graduation": 2023,
+        "soid": "f5d7e28e-4dfb-41b7-b817-0e7d5e11f7c9"
     },
     {
         "iid": 106,
@@ -56,7 +62,8 @@
         "enname": "Aleen Saleh Bahamran",
         "level": -3,
         "graduation": 2025,
-        "female": true
+        "female": true,
+        "soid": "70456b12-f9ad-49d5-b2c9-427ea772e6b0"
     },
     {
         "iid": 107,
@@ -64,7 +71,8 @@
         "arname": "عدنان محمد السادة",
         "enname": "Adnan Mohammed Alsadah",
         "level": -3,
-        "graduation": 2023
+        "graduation": 2023,
+        "soid": "b084e91e-cd7d-45b8-910e-1a76a88e2639"
     },
     {
         "iid": 108,
@@ -72,7 +80,8 @@
         "arname": "رائد طلبه",
         "enname": "Raed Tulbah",
         "level": -3,
-        "graduation": 2024
+        "graduation": 2024,
+        "soid": "57963352-e266-4331-a906-a2636cd9bda6"
     },
     {
         "iid": 109,
@@ -80,7 +89,8 @@
         "arname": "علي الخليفة",
         "enname": "Ali Al-Khalifa",
         "level": -3,
-        "graduation": 2024
+        "graduation": 2024,
+        "soid": "905d8ed7-e2be-48df-96a7-1b5ee8bf7d29"
     },
     {
         "iid": 110,
@@ -88,7 +98,8 @@
         "arname": "عبدالله هاجد السبيعي",
         "enname": "Abdullah Hajed Al-Subaie",
         "level": -3,
-        "graduation": 2025
+        "graduation": 2025,
+        "soid": "42c93ba9-35a5-4d36-8242-4e0f07f4bf72"
     },
     {
         "iid": 111,
@@ -96,7 +107,8 @@
         "arname": "سمير النجار",
         "enname": "Samir Al-Najjar",
         "level": -3,
-        "graduation": 2024
+        "graduation": 2024,
+        "soid": "b9e7dd12-179d-4cbc-b9f0-3a1c28da422a"
     },
     {
         "iid": 112,
@@ -105,7 +117,8 @@
         "enname": "Zahraa Al-Aythan",
         "level": -3,
         "graduation": 2025,
-        "female": true
+        "female": true,
+        "soid": "79e3c13b-3eb7-4a47-920c-92784d3cb9b0"
     },
     {
         "iid": 113,
@@ -113,7 +126,8 @@
         "arname": "حسن عبدالله البحار",
         "enname": "Hassan Abdullah Al-Bahhar",
         "level": -3,
-        "graduation": 2025
+        "graduation": 2025,
+        "soid": "a5dc8957-0d5f-4151-812f-81b218a82167"
     },
     {
         "iid": 114,
@@ -121,7 +135,8 @@
         "arname": "فؤاد حسين باجنيد",
         "enname": "Fouad Hussein Bajunaid",
         "level": -3,
-        "graduation": 2026
+        "graduation": 2026,
+        "soid": "7fa0502e-6991-43c1-abe3-da3f8b990701"
     },
     {
         "iid": 115,
@@ -129,7 +144,8 @@
         "arname": "حمزة محمد باعيسى",
         "enname": "Hamza Mohammed Baissa",
         "level": -3,
-        "graduation": 2026
+        "graduation": 2026,
+        "soid": "9380d5b9-9117-44a0-a7c6-6dd2ea2c18e0"
     },
     {
         "iid": 116,
@@ -137,7 +153,8 @@
         "arname": "زياد أحمد النمري",
         "enname": "Ziyad Ahmed Al-Namri",
         "level": -3,
-        "graduation": 2025
+        "graduation": 2025,
+        "soid": "5b9701ea-2576-4d49-aec6-90fa896ed6d7"
     },
     {
         "iid": 117,
@@ -145,7 +162,8 @@
         "arname": "إلياس فوزي عصلوب",
         "enname": "Elyas Fawzi Asloub",
         "level": -3,
-        "graduation": 2026
+        "graduation": 2026,
+        "soid": "ab509816-bd6b-4a2d-91d1-ed59dd29128f"
     },
     {
         "iid": 118,
@@ -153,7 +171,8 @@
         "arname": "طه أرشد كدوائي",
         "enname": "Taha Arshad Kadwai",
         "level": -3,
-        "graduation": 2027
+        "graduation": 2027,
+        "soid": "e7cbae38-6037-4f5f-9cc9-1a061ac2f1ba"
     },
     {
         "iid": 119,
@@ -162,7 +181,8 @@
         "enname": "Fatimah Ali Al-Maslami",
         "level": -3,
         "graduation": 2027,
-        "female": true
+        "female": true,
+        "soid": "ce72c4b1-a7c1-4daa-8e91-aca53cbb3482"
     },
     {
         "iid": 120,
@@ -170,7 +190,8 @@
         "arname": "حسين شاهين آل رضي",
         "enname": "Hussain Shaheen Al Radi",
         "level": -3,
-        "graduation": 2027
+        "graduation": 2027,
+        "soid": "872842a9-6bbe-49eb-a79e-c781adfb9de7"
     },
     {
         "iid": 121,
@@ -178,6 +199,7 @@
         "arname": "فيصل سعد العبداللطيف",
         "enname": "Faisal Saad Al-Abdullatif",
         "level": -3,
-        "graduation": 2026
+        "graduation": 2026,
+        "soid": "d6284e4d-ddec-4fa5-a38c-f66851d32995"
     }
 ]
